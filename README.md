@@ -1,14 +1,16 @@
 # Explore Sakila DVD Rental Database
-### by Vedavyas Kamath
+#### by Vedavyas Kamath  
 
 
-## Dataset
+## Dataset:
 
-> The Sakila Database holds information about a company that rents movie DVDs and contains data about rentals during 2005 and 2006. The database has a lot of related tables that hold different kinds of information while having a foreign key which relates it to other tables in the database.
+The Sakila Database holds information about a company that rents movie DVDs and contains data about rentals during 2005 and 2006. The database has a lot of related tables that hold different kinds of information while having a foreign key which relates it to other tables in the database.
 
-> There are different tables holding different details about film, rental, inventory, customer, staff, payment, actors, film categories and address infomation.
 
-> The main purpose of this project was to query the database to gain an understanding of the customer base, such as the patterns in movie watching across different customer groups and how they compare on payment earnings, and how the stores compare in their performance.
+There are different tables holding different details about film, rental, inventory, customer, staff, payment, actors, film categories and address infomation.
+
+
+The main purpose of this project was to query the database to gain an understanding of the customer base, such as the patterns in movie watching across different customer groups and how they compare on payment earnings, and how the stores compare in their performance.
 
 
 
