@@ -1,5 +1,5 @@
 # Explore Sakila DVD Rental Database
-#### by Vedavyas Kamath  
+#### by Vedavyas Kamath  <br>
 
 
 ## Dataset:
